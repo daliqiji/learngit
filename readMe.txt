@@ -6,4 +6,4 @@ Git is a distributed version control system
 git is free software distributed under the Gpl
 Git has a mutable index called stagie
 beigin
-stupid boss
+stupid sadasd
