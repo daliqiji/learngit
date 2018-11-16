@@ -4,4 +4,6 @@ Git is a version control
 first day create version
 Git is a distributed version control system
 git is free software distributed under the Gpl
-Git has a mutable index called stage
+Git has a mutable index called stagie
+beigin
+stupid boss
